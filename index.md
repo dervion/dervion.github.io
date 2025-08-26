@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Welcome to My Cyber Lab Journal
+This site features my writeups for hands-on experience on labs, notes etc.
 
 Here are my posts:
 
