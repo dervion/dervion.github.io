@@ -1,0 +1,79 @@
+Domain 3
+
+Access Controls Concepts
+
+Security Control- safeguard to preserve CIA
+e.g. firewall- prevent something coming in or going out
+
+Access
+-restrict/allow access
+
+Components:
+Subject- entity that requests access to asset
+-active, have permission
+e.g. user, process, procedure, client, server
+
+Object- anything that subject attempts to access
+-passive, must be protected, IAM system, has owner, may have classification
+e.g. building, computer, file, database, printer, scanner, thread, process
+
+Rule- to allow or deny access to an object by comparing identity of subject
+-against access control list, multiple attributes, how much is allowed, apply time-based access
+e.g. firewall access control list
+
+Defense in depth- layered defense strategy by org
+-integrates people, tech, ops to establish multiple barriers to deter attacks
+e.g. username, password, code, MFA
+firewalls vs. trusted networks vs. different level of sensitive info
+
+physical - logical - administrative controls - assets
+
+Physical access control -tangible to limit
+e.g. security guard, camera, fence
+
+logical access control - electronic methods to limit someone
+e.g. passwords, biometrics, badge
+
+administrative access control- policies and procedures
+
+Defense in depth
+e.g. data center - admin- P&P, logical tech- tool, physical -facility
+
+Control- to reduce risk vs risk tolerance of org
+-physical and administrative controls
+e.g. seatbelt, traffic laws
+bookshelf attached to wall, building codes
+
+Controls assessment- risk reduction depends on effectiveness of control, -must adapt
+e.g. location with 5 doors vs need, type/kind of asset, may just use a deadbolt
+
+Role-based control
+-role created for work function
+-when they leave the role, admin removes the access
+-works well with high turnover work environment
+-needs to check permission regularly to avoid privilege/permission creep
+-recommended to create standards based on the role vs the user
+
+Privilege access management
+-to avoid having permissions always on vs. just-in-time privilege (only when necessary)
+-role based subsets of privilege
+
+Privileged accounts
+-with permission beyond normal users
+-elevated privileges
+-based on trustworthiness
+e.g. system admins, helpdesk/IT, security analyst
+
+Measures vs. possible misuse
+-extensive logging
+-stringent, access control than regular - just-in-time identity, MFA
+-deeper trust verification - more background checking, stricter NDA, review
+-more auditing e.g. helpdesk personnel resetting passwords, compare daily logs vs. customer tickets
+
+Monitoring-physical access controls, auditing, and logging
+
+e.g. cameras -crime deterrent, surveillance
+logs- record of events, log retention, -log anomaly- to identify security-related issues
+alarm system-commonly found in doors or windows -e.g. fire alarm, panic button
+
+Security guards-effective physical control
