@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Overthewire Labs Bandit 0-6"
+date: 2025-08-28
+---
+
 Bandit
 
 Bandit 0
