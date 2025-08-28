@@ -1,3 +1,9 @@
+---
+layout: post
+title: "ISC2 CC Domain 2"
+date: 2025-08-28
+---
+
 Domain 2 Incident Response, Business Continuity and Disaster Recovery Concepts
 
 Incident Terminology
