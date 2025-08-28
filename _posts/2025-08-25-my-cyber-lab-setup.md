@@ -7,12 +7,9 @@ date: 2025-08-25
 To setup my test labs, I registered to Digital Ocean and Oracle Free Cloud Tier.
 
 1. I deployed 2 virtual machines(VMs) of Ubuntu.
-
 1a. I deployed 1 via Digital Ocean.
 1b. I deployed 1 via Oracle Free Cloud Tier.
-
 2. I installed Datadog agents and verified metrics.
-
 2a. I generated an API key for Digital Ocean and Oracle Ubuntu VMs.
 
 For Digital Ocean it's straightforward to navigate. 
