@@ -1,0 +1,103 @@
+Domain 2 Incident Response, Business Continuity and Disaster Recovery Concepts
+
+Incident Terminology
+Breach- compromise of authorized (more than they were authorized for) or unauthorized user
+
+Event- observable occurrence in network/system
+
+Exploit- attack vs. vulnerability
+
+Incident- event vs CIA of system
+
+Intrusion- security event wherein intruder gains or try to gain access without authorization
+
+Threat- circumstance/event to adversely impact via unauthorized access
+
+Vulnerability- weakness in system
+
+Zero day- unknown vulnerability with exploitation potential
+
+Goal of incident response (crisis management)
+-protect life, health and safety
+-always choose safety
+-be prepared
+-orgs must have IR plan
+-reducing impact so the org can continue the disrupted activity
+
+Business continuity
+red book- outside facility to continue operations, hard copy backups
+
+Some components:
+-List of business continuity plan, contacts, backup numbers
+-immediate response and safety procedure
+-notification system/ call tree
+-guidance for management / designation of authority
+-how, when to enact the plan
+-contact numbers for critical members of supply chain (vendors, customers)
+
+e.g. Fire occurred in one department
+-department function important but not immediately affecting other areas of business
+-temporary setup for optimize
+-customer service staff alternative to handle the main concern of the department affected
+-1 week without the department is acceptable
+-company has cash reserves to manage staying afloat
+
+Business continuity
+-Sustain business ops while disruption
+-key: communication & backup
+-established procedures and checklists
+-management, supply chain, law enforcement
+
+in US, military grade networks, can be used in case of disruptions for e.g. hospitals cyberattacks
+
+Incident Response plan
+-all employees should follow based on their role in the process
+
+Preparation- Detection & Analysis - Containment, eradication & recovery - Post-incident activity
+
+Preparation
+-develop management approved policy
+-identify critical data and systems train staff
+-implemented incident identification
+-identify roles
+-plan communication / primary communication backup
+
+Detection and Analysis
+-Monitor all possible attack vector
+-Analyze incident via threat intel
+-Prioritize incident response
+-Standardize incident documentation
+
+Containment
+-gather evidence
+-choose containment strategy
+identify attacker
+-isolate attack
+
+Post-incident activity
+-identify evidence (retained)
+-document lessons learned
+-review all over again the steps
+
+Goals of disaster recovery
+-disaster response plan (DRP) guides action of emergency response until end goal(restoration of business)
+-restoring IT, comms, systems
+
+Business continuity plan vs DRP- maintaining critical business function vs. restoring IT and comms after disruption
+
+Components of DRP
+-executive summary (high level overview)
+-department specific plans
+-technical guides for IT personnel(critical backup systems)
+-full copies of the plan for DR members
+
+Checklists:
+-DR team will have checklists
+-IT personnel technical guides for alternate sites up and running
+-managers and PR staff will have high level, simple docs for communicating accurately
+
+Business continuity
+-enabling critical functions even reduced capacity vs. disruption
+-involves planning, preparation, response and recovery operations
+-not generously full restoration of business
+-needs organizational support
