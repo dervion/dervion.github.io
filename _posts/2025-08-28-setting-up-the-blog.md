@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Setting up the blog"
+date: 2025-08-28
+---
+
 To setup this blog I did the following things:
 
 1. Signed up with Namecheap domain to acquire terve.me
